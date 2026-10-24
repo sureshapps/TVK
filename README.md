@@ -2,7 +2,6 @@
 
 An immersive scroll concept site for Tamilaga Vettri Kazhagam. **Concept only, not an official TVK website.**
 
-**Live site:** https://sabeshnav.github.io/tvk-website/ (once GitHub Pages is switched on, see below)
 
 ## What's here
 - `index.html`: the whole site in one self-contained file (code, fonts and images inside). This is what GitHub Pages serves.
